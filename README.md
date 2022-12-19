@@ -26,7 +26,7 @@ Documentação do Dbt https://docs.getdbt.com/
 
 Documentação do Snowflake https://docs.snowflake.com/en/
 
-Link do Dashboard l1nq.com/b9NHL
+Link do Dashboard https://app.powerbi.com/view?r=eyJrIjoiOWUyMzgyMGQtYzRhZC00NTNkLWE2ZjEtNzRmMWE3NDFlOGFlIiwidCI6ImRjOTkxOTBlLTU3MGEtNDk1Zi05NWMwLWY2M2EyM2ZjODBkZSJ9
 
 ## 🛠 &nbsp;Tech Stack
 
