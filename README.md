@@ -26,6 +26,8 @@ Documentação do Dbt https://docs.getdbt.com/
 
 Documentação do Snowflake https://docs.snowflake.com/en/
 
+Link do Dashboard l1nq.com/b9NHL
+
 ## 🛠 &nbsp;Tech Stack
 
       
