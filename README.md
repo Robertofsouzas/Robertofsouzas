@@ -15,6 +15,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 🎯 Habilidades e ferramentas que estou aprendendo
 
 - Analista de dados: Power BI,Bancos de Dados SQLserver, NoSQL Mongodb ,Pentaho , SQL
+  
 - Engenharia de Dados: Databricks,Azure, PySpark, , Dbt, Airbyte.
 
 ## 🛠 &nbsp;Tech Stack
