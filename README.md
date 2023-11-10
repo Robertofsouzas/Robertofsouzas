@@ -3,12 +3,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Roberto souza</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertofsouzas&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Analista de dados & Estudante de Engenharia de dados.
+ 
+O principal objetivo deste portfólio de projetos pessoais de ciência de dados é demonstrar minhas habilidades na resolução de desafios de negócios através de meus conhecimentos e ferramentas de Ciência de Dados.
 
 
 
-
-
-Bem vindos  Modern Data Stack
+ 
 
 ## 🛠 &nbsp;Tech Stack
 
