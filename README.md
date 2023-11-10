@@ -71,4 +71,3 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
   <img align="center"src= "https://img.shields.io/github/followers/Robertofsouzas.svg?style=social&label=Follow&maxAge=2592000"/>
 
 
- <img align="center"src="https://img.shields.io/badge/WhatsApp-5571986072596?style=for-the-badge&logo=whatsapp&logoColor=white"/>
