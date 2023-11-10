@@ -66,4 +66,4 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 <a href="https://www.linkedin.com/in/roberto-fonseca-de-souza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Roberto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
-  	https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
+  	https://img.shields.io/github/followers/{Robertofsouzas}.svg?style=social&label=Follow&maxAge=2592000
