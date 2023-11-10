@@ -9,7 +9,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 
  
-![Analise de dados](https://github.com/Robertofsouzas/Robertofsouzas/assets/67076322/a15e6d38-896d-4828-b859-69caa494beec)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 🎯 Habilidades e ferramentas que estou aprendendo
