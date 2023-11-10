@@ -4,7 +4,7 @@
 
 - 🔥 Analista de dados & Estudante de Engenharia de dados.
  
-O principal objetivo deste portfólio de projetos pessoais de ciência de dados é demonstrar minhas habilidades na resolução de desafios de negócios através de meus conhecimentos e ferramentas de Ciência de Dados.
+O principal objetivo deste portfólio de projetos pessoais de Análise de dados  é demonstrar minhas habilidades na resolução de desafios de negócios através de meus conhecimentos e ferramentas .
 
 
 
