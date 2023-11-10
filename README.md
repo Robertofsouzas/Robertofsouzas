@@ -9,6 +9,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 
  
+![Analise de dados](https://github.com/Robertofsouzas/Robertofsouzas/assets/67076322/a15e6d38-896d-4828-b859-69caa494beec)
 
 ## 🛠 &nbsp;Tech Stack
 
