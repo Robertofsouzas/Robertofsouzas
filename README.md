@@ -68,4 +68,4 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
   
 
   <a href="https://www.github.com/Robertofsouzas/" target="_blank">
-  <img "https://img.shields.io/github/followers/Robertofsouzas.svg?style=social&label=Follow&maxAge=2592000"/>
+  <img align="center"src= "https://img.shields.io/github/followers/Robertofsouzas.svg?style=social&label=Follow&maxAge=2592000"/>
