@@ -67,4 +67,6 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 <a href="https://instagram.com/robertosouzas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertosouzas" height="30" width="40" /></a>
 </p>
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986072596)
+
 
