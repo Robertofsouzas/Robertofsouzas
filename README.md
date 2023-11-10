@@ -9,7 +9,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 
 
 🎯 Habilidades e ferramentas que estou aprendendo
