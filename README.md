@@ -22,7 +22,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
       
  - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
- - 🔭 Projeto [Pre-Processamento de dados no Mondb](https://github.com/Robertofsouzas/Pre-Processamento-de-dados-de-texto-Extraido-do-Mongodb)
+ - 🔭 Projeto [Pre-Processamento de dados no Mongodb](https://github.com/Robertofsouzas/Pre-Processamento-de-dados-de-texto-Extraido-do-Mongodb)
 
 - 🔭 Projeto [Modern data stack](https://github.com/Robertofsouzas/modern-data-stack)
 
