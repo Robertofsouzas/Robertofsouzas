@@ -21,9 +21,9 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 ## 🛠 &nbsp;Tech Stack
 
       
-   - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
+ - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
 
-- 🔭 Projeto [https://github.com/Robertofsouzas/modern-data-stack](https://github.com/Robertofsouzas/modern-data-stack)
+- 🔭 Projeto [Modern data stack](https://github.com/Robertofsouzas/modern-data-stack)
 
 - 🤝 Atualmente estou trabalhando nesse projeto [Previsão de vendas na loja](https://github.com/Robertofsouzas/DatascienceEmproducao)
 
