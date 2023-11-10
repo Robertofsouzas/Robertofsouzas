@@ -21,6 +21,8 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
    <img align="center" alt="Google_Cloud" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
    	 <img align="center" alt="Microsoft_Azure" src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
        <img align="center" alt="Microsoft%20SQL%20Server" src=  "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  
+       [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](LINK_DO_SEU_PAINEL_NO_POWER_BI)
+
  
           
           
