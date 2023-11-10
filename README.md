@@ -16,7 +16,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 - Analista de dados: Power BI,Bancos de Dados SQLserver, NoSQL Mongodb ,Pentaho , SQL
   
-- Engenharia de Dados: Databricks,Azure, PySpark, , Dbt, Airbyte.
+- Engenharia de Dados: Databricks, Azure, PySpark, Data Factory
 
 ## 🛠 &nbsp;Tech Stack
 
