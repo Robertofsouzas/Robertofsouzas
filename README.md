@@ -67,4 +67,4 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
   <img align="center" src="https://img.shields.io/badge/-Roberto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   
 
- <a href="https://img.shields.io/github/followers/Robertofsouzas.svg?style=social&label=Follow&maxAge=2592000"/>
+  <img "https://img.shields.io/github/followers/Robertofsouzas.svg?style=social&label=Follow&maxAge=2592000"/>
