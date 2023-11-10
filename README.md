@@ -21,7 +21,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
    <img align="center" alt="Google_Cloud" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
    	 <img align="center" alt="Microsoft_Azure" src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
        <img align="center" alt="Microsoft%20SQL%20Server" src=  "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  
-             <img align="center" alt="MongoDB" src= " https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+          <img align="center" alt="MongoDB" src= " https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
  
           
