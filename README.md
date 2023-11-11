@@ -10,6 +10,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
  
 
+![Analise de dados](https://github.com/Robertofsouzas/Robertofsouzas/assets/67076322/01f9c84c-ddf5-4b51-b897-7aadf3c476de)
 
 
  ## 🎯  &nbsp;skills
