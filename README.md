@@ -21,6 +21,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 ## 🛠 &nbsp;Projetos
 
+ - 🔭 Projeto [LojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/tree/main)
  - 🔭 Projeto [Healthcare-Dataset](https://github.com/Robertofsouzas/Healthcare-Dataset)
  - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
  - 🔭 Projeto [Pre-Processamento de dados no Mongodb](https://github.com/Robertofsouzas/Pre-Processamento-de-dados-de-texto-Extraido-do-Mongodb)
