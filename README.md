@@ -31,7 +31,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 
 - 🤝 Atualmente estou trabalhando nesse projeto [Previsão de vendas na loja](https://github.com/Robertofsouzas/DatascienceEmproducao)
 
-- 👨‍💻 Projetos em Power BI [Power BI](https://dashboards.digital/editor/Roberto%20%20Souza)
+- 👨‍💻 Projetos em Power BI [Power BI](https://dashboards.digital/p/robertosouzapowerbi)
 
 - 📫 How to reach me **Robertofonsecas83@gmail.com**
 
