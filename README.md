@@ -20,7 +20,7 @@ O principal objetivo deste portfólio de projetos pessoais de Análise de dados 
 - Engenharia de Dados: Databricks, Azure, PySpark, Data Factory
 
 ## 🛠 &nbsp;Projetos
-
+ - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
  - 🔭 Projeto [LojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/tree/main)
  - 🔭 Projeto [Healthcare-Dataset](https://github.com/Robertofsouzas/Healthcare-Dataset)
  - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
