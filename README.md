@@ -7,7 +7,8 @@
 🎯 **Objetivo**  
 Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções técnicas robustas.
 
-
+## 🚀 **Sobre Mim**
+Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise de Dados e  Engenharia de Dados. Meu foco está em criar soluções que transformem dados em **insights acionáveis**, utilizando as melhores ferramentas e práticas do mercado.
 
  
 
