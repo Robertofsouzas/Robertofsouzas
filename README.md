@@ -15,12 +15,20 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 ![Analise de dados](https://github.com/Robertofsouzas/Robertofsouzas/assets/67076322/01f9c84c-ddf5-4b51-b897-7aadf3c476de)
 
 
- ## 🎯  &nbsp;skills
+## 💡 **Habilidades**
 
-- Analista de dados: Power BI,Bancos de Dados SQLserver, NoSQL Mongodb ,Pentaho , SQL
-  
-- Engenharia de Dados: Databricks, Azure, PySpark, Data Factory
+### **🔍 Análise de Dados**  
+- **Power BI**: Desenvolvimento de dashboards interativos.  
+- **SQL Server e NoSQL (MongoDB)**: Consultas, manipulação e otimização de bancos de dados.  
+- **Pentaho**: Soluções ETL para integrar dados.  
+- **SQL**: Criação de consultas avançadas e modelagem de dados.  
 
+### **⚙️ Engenharia de Dados**  
+- **Databricks**: Processamento e análise de grandes volumes de dados.  
+- **Azure Data Factory**: Integração e automação de pipelines de dados.  
+- **PySpark**: Processamento distribuído para tarefas de ETL robustas. 
+- **Fabric**:  Automatiza e otimiza tarefas de processamento e análise de dados, tornando os fluxos de trabalho mais eficientes e escaláveis.
+- 
 ## 🛠 &nbsp;Projetos
  - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
  - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
