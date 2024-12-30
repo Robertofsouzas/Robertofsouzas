@@ -27,7 +27,7 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 - **Databricks**: Processamento e análise de grandes volumes de dados.  
 - **Azure Data Factory**: Integração e automação de pipelines de dados.  
 - **PySpark**: Processamento distribuído para tarefas de ETL robustas. 
-- **Fabric**:  Automatiza e otimiza tarefas de processamento e análise de dados, tornando os fluxos de trabalho mais eficientes e escaláveis.
+- **Microsoft Fabric**:  Automatiza e otimiza tarefas de processamento e análise de dados, tornando os fluxos de trabalho mais eficientes e escaláveis.
  
 ## 🛠 &nbsp;Projetos
  - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
