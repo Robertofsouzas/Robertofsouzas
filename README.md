@@ -2,9 +2,10 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Roberto souza</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertofsouzas&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Analista de dados & Estudante de Engenharia de dados.
+# 🔥 Roberto - Analista de Dados e Estudante de Engenharia de Dados
  
-O principal objetivo deste portfólio de projetos pessoais de Análise de dados  é demonstrar minhas habilidades na resolução de desafios de negócios através de meus conhecimentos e ferramentas .
+🎯 **Objetivo**  
+Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções técnicas robustas.
 
 
 
