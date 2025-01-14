@@ -42,7 +42,7 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 
 - 🤝 Atualmente estou trabalhando nesse projeto [Previsão de vendas na loja](https://github.com/Robertofsouzas/DatascienceEmproducao)
 
-- 👨‍💻 Projetos em Power BI [Power BI](https://dashboards.digital/p/robertosouzapowerbi)
+- 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
 
 - 📫 How to reach me **Robertofonsecas83@gmail.com**
 
