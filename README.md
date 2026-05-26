@@ -3,12 +3,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Roberto souza</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robertofsouzas&color=blue" alt="Profile views" />
 </p>
 
-# 🔥  -Analyst Engineer
+# 🔥  - Data Engineer
  
 🎯 **Objetivo**  
 Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções escaláveis.
 
-## 🚀 **Sobre Mim**
+# 🚀 **Sobre Mim**
 Analista de Dados BI | Transformando Dados em Estratégias com Impacto Tangível
 
 Analista de BI  com mais de 4 anos de experiência na construção de pipelines de dados e soluções analíticas que suportam decisões críticas de negócios.  Trabalhei em grandes empresas e ambientes de consultoria, incluindo Petrobras e empresas de consultoria com foco em dados, entregando soluções de BI ponta a ponta, desde extração de dados até painéis executivos.
@@ -20,13 +20,19 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 # 💡 **Habilidades**
 
 ### **🔍 Análise de Dados**  
+
+![Dashboard](./dashboard.svg)
 📊 Power BI: Desenvolvimento de dashboards interativos e painéis executivos de alto impacto. Aplicação de data storytelling com lógica Top-Down estruturada, construção de métricas complexas utilizando a linguagem DAX e otimização rigorosa de modelos semânticos para garantir máxima performance e clareza na tomada de decisão.
+
 
 🗄️ SQL Server: Gerenciamento, manipulação e otimização estrutural de bancos de dados relacionais. Foco em performance tuning, criação de views e stored procedures, assegurando uma arquitetura de dados estável, segura e veloz para suportar o ambiente analítico.
 
 🔄 Pentaho Data Integration (PDI): Construção e orquestração de soluções robustas de ETL. Automação de pipelines para extrair dados de múltiplas origens, aplicar transformações e regras de negócio complexas, e carregar informações limpas e padronizadas no Data Warehouse.
 
 💻 SQL: Domínio na criação de consultas avançadas e em modelagem dimensional. Uso intensivo da linguagem para exploração de dados, lógicas de tratamento e estruturação de tabelas fato e dimensão, garantindo a integridade da base que alimenta a camada de visualização.
+
+- 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
+
 
 # **⚙️ Engenharia de Dados**  
 
@@ -53,7 +59,7 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 
 - 🤝 Atualmente estou trabalhando nesse projeto [Previsão de vendas na loja](https://github.com/Robertofsouzas/DatascienceEmproducao)
 
-- 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
+
 
 - 📫 How to reach me **Robertofonsecas83@gmail.com**
 
