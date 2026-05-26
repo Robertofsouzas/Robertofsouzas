@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="100%" height="100%" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
+    
+    <rect x="0" y="0" width="1000" height="660" rx="12" fill="#002233" stroke="#111" stroke-width="8" />
+
+    <rect x="4" y="4" width="992" height="50" rx="8" fill="#002233" />
+    <text x="20" y="35" fill="#4facfe" font-size="18" font-weight="bold">Dashboard</text>
+    <line x1="4" y1="54" x2="996" y2="54" stroke="#415a77" stroke-width="2" />
+
+    <rect x="20" y="74" width="960" height="220" rx="8" fill="#003344" />
+    <text x="35" y="100" fill="#ffffff" font-size="14" font-weight="bold">Net Worth and Forecast</text>
+
+    <text x="35" y="130" fill="#778da9" font-size="10">40.000</text>
+    <text x="35" y="200" fill="#778da9" font-size="10">20.000</text>
+    <text x="35" y="270" fill="#778da9" font-size="10">0</text>
+
+    <g fill="#cd7f32">
+        <rect x="80" y="225" width="24" height="45" rx="2" />
+        <rect x="116" y="210" width="24" height="60" rx="2" />
+        <rect x="152" y="232.5" width="24" height="37.5" rx="2" />
+        <rect x="188" y="195" width="24" height="75" rx="2" />
+        <rect x="224" y="202.5" width="24" height="67.5" rx="2" />
+        <rect x="260" y="180" width="24" height="90" rx="2" />
+        <rect x="296" y="150" width="24" height="120" rx="2" />
+        <rect x="332" y="165" width="24" height="105" rx="2" />
+    </g>
+
+    <g fill="#c0c0c0">
+        <rect x="368" y="135" width="24" height="135" rx="2" />
+        <rect x="404" y="172.5" width="24" height="97.5" rx="2" />
+        <rect x="440" y="187.5" width="24" height="82.5" rx="2" />
+        <rect x="476" y="210" width="24" height="60" rx="2" />
+        <rect x="512" y="165" width="24" height="105" rx="2" />
+        <rect x="548" y="142.5" width="24" height="127.5" rx="2" />
+        <rect x="584" y="127.5" width="24" height="142.5" rx="2" />
+        <rect x="620" y="157.5" width="24" height="112.5" rx="2" />
+    </g>
+
+    <g fill="#daa520">
+        <rect x="656" y="180" width="24" height="90" rx="2" />
+        <rect x="692" y="195" width="24" height="75" rx="2" />
+        <rect x="728" y="150" width="24" height="120" rx="2" />
+        <rect x="764" y="135" width="24" height="135" rx="2" />
+        <rect x="800" y="120" width="24" height="150" rx="2" />
+        <rect x="836" y="142.5" width="24" height="127.5" rx="2" />
+        <rect x="872" y="165" width="24" height="105" rx="2" />
+        <rect x="908" y="180" width="24" height="90" rx="2" />
+    </g>
+
+    <rect x="20" y="314" width="280" height="320" rx="8" fill="#003344" />
+    <text x="35" y="340" fill="#b08d57" font-size="14" font-weight="bold">Accounts</text>
+    
+    <g font-size="12">
+        <text x="35" y="375" fill="#ffffff">Alice O.</text>
+        <text x="285" y="375" fill="#cd7f32" font-weight="bold" text-anchor="end">94.492</text>
+        <line x1="35" y1="385" x2="285" y2="385" stroke="#415a77" stroke-width="1" />
+        <text x="35" y="410" fill="#ffffff">Bob S.</text>
+        <text x="285" y="410" fill="#cd7f32" font-weight="bold" text-anchor="end">83.921</text>
+        <line x1="35" y1="420" x2="285" y2="420" stroke="#415a77" stroke-width="1" />
+        <text x="35" y="445" fill="#ffffff">Kate T.</text>
+        <text x="285" y="445" fill="#cd7f32" font-weight="bold" text-anchor="end">20.417</text>
+        <line x1="35" y1="455" x2="285" y2="455" stroke="#415a77" stroke-width="1" />
+        <text x="35" y="480" fill="#ffffff">Total</text>
+        <text x="285" y="480" fill="#cd7f32" font-weight="bold" text-anchor="end">198.830</text>
+    </g>
+    <rect x="35" y="585" width="60" height="25" rx="4" fill="#4facfe" />
+    <text x="65" y="602" fill="#0d1b2a" font-size="12" font-weight="bold" text-anchor="middle">Open</text>
+
+
+    <rect x="320" y="314" width="400" height="320" rx="8" fill="#003344" />
+    <text x="335" y="340" fill="#8eaccd" font-size="14" font-weight="bold">Recent Activity</text>
+
+    <g font-size="12">
+        <text x="335" y="375" fill="#ffffff">Friday 09:00 - Product A Sales</text>
+        <text x="705" y="375" fill="#c0c0c0" font-weight="bold" text-anchor="end">485.00 px</text>
+        <line x1="335" y1="385" x2="705" y2="385" stroke="#415a77" stroke-width="1" />
+        <text x="335" y="410" fill="#ffffff">Product B Sales</text>
+        <text x="705" y="410" fill="#c0c0c0" font-weight="bold" text-anchor="end">150.25 px</text>
+        <line x1="335" y1="420" x2="705" y2="420" stroke="#415a77" stroke-width="1" />
+        <text x="335" y="445" fill="#ffffff">Product C Sales</text>
+        <text x="705" y="445" fill="#c0c0c0" font-weight="bold" text-anchor="end">980.50 px</text>
+        <line x1="335" y1="455" x2="705" y2="455" stroke="#415a77" stroke-width="1" />
+        <text x="335" y="480" fill="#ffffff">Monday 08:30 - Product A Sales</text>
+        <text x="705" y="480" fill="#c0c0c0" font-weight="bold" text-anchor="end">315.00 px</text>
+        <line x1="335" y1="490" x2="705" y2="490" stroke="#415a77" stroke-width="1" />
+        <text x="335" y="515" fill="#ffffff">Product B Sales</text>
+        <text x="705" y="515" fill="#c0c0c0" font-weight="bold" text-anchor="end">410.20 px</text>
+    </g>
+
+
+    <rect x="740" y="314" width="240" height="320" rx="8" fill="#003344" />
+    <text x="755" y="340" fill="#e3a936" font-size="14" font-weight="bold">Income</text>
+
+    <g transform="translate(860, 460) rotate(-90)">
+        <circle r="50" fill="transparent" stroke="#cd7f32" stroke-width="30" stroke-dasharray="94.25 314.16" stroke-dashoffset="0" />
+        <circle r="50" fill="transparent" stroke="#c0c0c0" stroke-width="30" stroke-dasharray="109.95 314.16" stroke-dashoffset="-94.25" />
+        <circle r="50" fill="transparent" stroke="#daa520" stroke-width="30" stroke-dasharray="62.83 314.16" stroke-dashoffset="-204.2" />
+        <circle r="50" fill="transparent" stroke="#00cc66" stroke-width="30" stroke-dasharray="47.12 314.16" stroke-dashoffset="-267.03" />
+    </g>
+    <text x="860" y="465" fill="#daa520" font-size="14" font-weight="bold" text-anchor="middle">Q1</text>
+
+    <rect x="885" y="585" width="80" height="25" rx="4" fill="#4facfe" />
+    <text x="925" y="602" fill="#0d1b2a" font-size="12" font-weight="bold" text-anchor="middle">Compare</text>
+
+</svg>
