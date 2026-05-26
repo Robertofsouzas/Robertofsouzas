@@ -9,29 +9,37 @@
 Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções escaláveis.
 
 ## 🚀 **Sobre Mim**
-Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise de Dados e  Engenharia de Dados. Meu foco está em criar soluções que transformem dados em **insights acionáveis**, utilizando as melhores práticas de engenharia e arquitetura de dados.
+Analista de Dados BI | Transformando Dados em Estratégias com Impacto Tangível
+
+Analista de BI  com mais de 4 anos de experiência na construção de pipelines de dados e soluções analíticas que suportam decisões críticas de negócios.  Trabalhei em grandes empresas e ambientes de consultoria, incluindo Petrobras e empresas de consultoria com foco em dados, entregando soluções de BI ponta a ponta, desde extração de dados até painéis executivos.
 
 ---
+
+
+
+# 💡 **Habilidades**
+
+### **🔍 Análise de Dados**  
+📊 Power BI: Desenvolvimento de dashboards interativos e painéis executivos de alto impacto. Aplicação de data storytelling com lógica Top-Down estruturada, construção de métricas complexas utilizando a linguagem DAX e otimização rigorosa de modelos semânticos para garantir máxima performance e clareza na tomada de decisão.
+
+🗄️ SQL Server: Gerenciamento, manipulação e otimização estrutural de bancos de dados relacionais. Foco em performance tuning, criação de views e stored procedures, assegurando uma arquitetura de dados estável, segura e veloz para suportar o ambiente analítico.
+
+🔄 Pentaho Data Integration (PDI): Construção e orquestração de soluções robustas de ETL. Automação de pipelines para extrair dados de múltiplas origens, aplicar transformações e regras de negócio complexas, e carregar informações limpas e padronizadas no Data Warehouse.
+
+💻 SQL: Domínio na criação de consultas avançadas e em modelagem dimensional. Uso intensivo da linguagem para exploração de dados, lógicas de tratamento e estruturação de tabelas fato e dimensão, garantindo a integridade da base que alimenta a camada de visualização.
+
+# **⚙️ Engenharia de Dados**  
 
 ## 📊 **Arquitetura de Engenharia de Dados**
 
 ![Arquitetura de Dados](./arquitetura-dados%20(1).svg)
+-⚙️ Azure Data Factory: Orquestração, integração e automação de pipelines de dados em nuvem, fundamental para construir fluxos de ETL/ELT confiáveis.
 
-## 💡 **Habilidades**
+🔥 PySpark: Motor de processamento distribuído utilizado para tarefas de engenharia de dados em larga escala, transformações complexas e análise de Big Data com alta velocidade.
 
-### **🔍 Análise de Dados**  
-- **Power BI**: Desenvolvimento de dashboards interativos.  
-- **SQL Server e NoSQL (MongoDB)**: Consultas, manipulação e otimização de bancos de dados.  
-- **Pentaho**: Soluções ETL para integrar dados.  
-- **SQL**: Criação de consultas avançadas e modelagem de dados.  
-
-### **⚙️ Engenharia de Dados**  
-- **Databricks**: Processamento e análise de grandes volumes de dados.  
-- **Azure Data Factory**: Integração e automação de pipelines de dados.  
-- **PySpark**: Processamento distribuído para tarefas de ETL robustas. 
-- **Microsoft Fabric**:  Automatiza e otimiza tarefas de processamento e análise de dados, tornando os fluxos de trabalho mais eficientes e escaláveis.
+⚡ Microsoft Fabric: Plataforma SaaS unificada (all-in-one) de ponta a ponta que centraliza engenharia, integração e visualização de dados. Automatiza e otimiza tarefas desde o processamento no OneLake até o consumo no BI, quebrando silos de dados e tornando os fluxos de trabalho incrivelmente mais eficientes e escaláveis.
  
-## 🛠 &nbsp;Projetos
+# 🛠 &nbsp;Projetos
  - 🔭 Projeto [Projeto Soluões Fabric](https://github.com/Robertofsouzas/solucoes-fabric)
  - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
  - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
