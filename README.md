@@ -15,7 +15,7 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 
 ## 📊 **Arquitetura de Engenharia de Dados**
 
-<img src="./assets/arquitetura-dados(1).svg" alt="Arquitetura Medallion">
+![Arquitetura de Dados](./arquitetura-dados%20(1).svg)
 
 ## 💡 **Habilidades**
 
