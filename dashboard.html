@@ -1,0 +1,260 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Replicado - Cores da Arquitetura</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #1e5d6e; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .tv-screen {
+            background-color: #002233;
+            border: 8px solid #111;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 1000px;
+            color: #e0e0e0;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+            overflow: hidden;
+        }
+
+        .dashboard-header {
+            background-color: #002233;
+            padding: 15px 20px;
+            font-size: 18px;
+            font-weight: 600;
+            color: #4facfe;
+            border-bottom: 2px solid #415a77;
+        }
+
+        .dashboard-content {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .widget-top {
+            background-color: #003344;
+            border-radius: 8px;
+            padding: 15px;
+            height: 220px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .widget-title {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #fff;
+        }
+
+        .bar-chart {
+            display: flex;
+            align-items: flex-end;
+            height: 100%;
+            gap: 4px;
+            padding-left: 40px;
+            position: relative;
+        }
+
+        .y-axis {
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            font-size: 10px;
+            color: #778da9;
+        }
+
+        .bar {
+            flex-grow: 1;
+            border-radius: 2px 2px 0 0;
+            opacity: 0.9;
+        }
+
+        .bar:nth-child(-n+8) { background-color: #cd7f32; }
+        .bar:nth-child(n+9):nth-child(-n+16) { background-color: #c0c0c0; }
+        .bar:nth-child(n+17) { background-color: #daa520; }
+
+        .widget-bottom-row {
+            display: grid;
+            grid-template-columns: 1fr 1.5fr 1fr;
+            gap: 20px;
+        }
+
+        .widget {
+            background-color: #003344;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .list-item {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            padding: 8px 0;
+            border-bottom: 1px solid #415a77;
+        }
+        
+        .list-item:last-child {
+            border-bottom: none;
+        }
+
+        .item-label { color: #fff; }
+        .item-value { font-weight: bold; }
+
+        .widget.accounts .widget-title { color: #b08d57; }
+        .widget.accounts .item-value { color: #cd7f32; }
+        
+        .widget.recent-activity .widget-title { color: #8eaccd; }
+        .widget.recent-activity .item-value { color: #c0c0c0; }
+        
+        .widget.income .widget-title { color: #e3a936; }
+
+        .btn {
+            background-color: #4facfe;
+            color: #0d1b2a;
+            border: none;
+            padding: 6px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 12px;
+            margin-top: 10px;
+            display: block;
+            width: fit-content;
+        }
+
+        .donut-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 0;
+        }
+
+        .donut-chart {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: conic-gradient(
+                #cd7f32 0% 30%,
+                #c0c0c0 30% 65%,
+                #daa520 65% 85%,
+                #00cc66 85% 100%
+            );
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .donut-hole {
+            width: 50px;
+            height: 50px;
+            background-color: #003344;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            font-weight: bold;
+            color: #daa520;
+        }
+    </style>
+</head>
+<body>
+    <div class="tv-screen">
+        <div class="dashboard-header">
+            Dashboard
+        </div>
+        
+        <div class="dashboard-content">
+            <div class="widget-top">
+                <div class="widget-title">Net Worth and Forecast</div>
+                <div class="bar-chart">
+                    <div class="y-axis">
+                        <span>40.000</span>
+                        <span>20.000</span>
+                        <span>0</span>
+                    </div>
+                    <div class="bar" style="height: 30%;"></div>
+                    <div class="bar" style="height: 40%;"></div>
+                    <div class="bar" style="height: 25%;"></div>
+                    <div class="bar" style="height: 50%;"></div>
+                    <div class="bar" style="height: 45%;"></div>
+                    <div class="bar" style="height: 60%;"></div>
+                    <div class="bar" style="height: 80%;"></div>
+                    <div class="bar" style="height: 70%;"></div>
+                    <div class="bar" style="height: 90%;"></div>
+                    <div class="bar" style="height: 65%;"></div>
+                    <div class="bar" style="height: 55%;"></div>
+                    <div class="bar" style="height: 40%;"></div>
+                    <div class="bar" style="height: 70%;"></div>
+                    <div class="bar" style="height: 85%;"></div>
+                    <div class="bar" style="height: 95%;"></div>
+                    <div class="bar" style="height: 75%;"></div>
+                    <div class="bar" style="height: 60%;"></div>
+                    <div class="bar" style="height: 50%;"></div>
+                    <div class="bar" style="height: 80%;"></div>
+                    <div class="bar" style="height: 90%;"></div>
+                    <div class="bar" style="height: 100%;"></div>
+                    <div class="bar" style="height: 85%;"></div>
+                    <div class="bar" style="height: 70%;"></div>
+                    <div class="bar" style="height: 60%;"></div>
+                </div>
+            </div>
+
+            <div class="widget-bottom-row">
+                <div class="widget accounts">
+                    <div class="widget-title">Accounts</div>
+                    <div class="list-item"><span class="item-label">Alice O.</span><span class="item-value">94.492</span></div>
+                    <div class="list-item"><span class="item-label">Bob S.</span><span class="item-value">83.921</span></div>
+                    <div class="list-item"><span class="item-label">Kate T.</span><span class="item-value">20.417</span></div>
+                    <div class="list-item"><span class="item-label">Total</span><span class="item-value">198.830</span></div>
+                    <button class="btn">Open</button>
+                </div>
+
+                <div class="widget recent-activity">
+                    <div class="widget-title">Recent Activity</div>
+                    <div class="list-item"><span class="item-label">Friday 09:00 - Product A Sales</span><span class="item-value">485.00 px</span></div>
+                    <div class="list-item"><span class="item-label">Product B Sales</span><span class="item-value">150.25 px</span></div>
+                    <div class="list-item"><span class="item-label">Product C Sales</span><span class="item-value">980.50 px</span></div>
+                    <div class="list-item"><span class="item-label">Monday 08:30 - Product A Sales</span><span class="item-value">315.00 px</span></div>
+                    <div class="list-item"><span class="item-label">Product B Sales</span><span class="item-value">410.20 px</span></div>
+                </div>
+
+                <div class="widget income">
+                    <div class="widget-title">Income</div>
+                    <div class="donut-container">
+                        <div class="donut-chart">
+                            <div class="donut-hole">Q1</div>
+                        </div>
+                    </div>
+                    <button class="btn" style="float: right;">Compare</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
