@@ -13,29 +13,139 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 
 ---
 
-## 📊 **Fluxo de Engenharia de Dados para Soluções de Negócio**
+## 📊 **Arquitetura de Engenharia de Dados**
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                   ENGENHARIA DE DADOS PARA NEGÓCIOS                    │
-└─────────────────────────────────────────────────────────────────────────┘
-
-  📈 DADOS BRUTOS           🔄 PROCESSAMENTO          💡 INSIGHTS         ✅ SOLUÇÕES
-  ─────────────────        ──────────────────        ──────────────      ─────────────
-       ↓                         ↓                        ↓                   ↓
-   
-  📊 Fontes                 🔧 ETL/ELT              📉 Análise           💼 Negócio
-  ├─ APIs                 ├─ Limpeza             ├─ Dashboards        ├─ Decisões
-  ├─ Bancos              ├─ Transformação      ├─ Relatórios        ├─ Automações
-  ├─ Arquivos            ├─ Validação           ├─ Previsões          ├─ Otimizações
-  └─ Streams             └─ Enrichment          └─ Padrões            └─ ROI
-
-   ┌──────────────┐      ┌──────────────┐     ┌──────────────┐      ┌──────────────┐
-   │ Azure Data   │      │ Databricks   │     │ Power BI     │      │ Business     │
-   │ Factory      │  ──→ │ PySpark      │  ──→ │ Microsoft    │  ──→ │ Problems     │
-   │ MongoDB      │      │ SQL          │     │ Fabric       │      │ Solved ✓     │
-   └──────────────┘      └──────────────┘     └──────────────┘      └──────────────┘
-```
+<div style="display: flex; justify-content: center; align-items: center; margin: 40px 0;">
+  <svg width="1000" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1a4d5c;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0d2d35;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="bronzeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#d4a574;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#a0826d;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#e8e8e8;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#c0c0c0;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#daa520;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Main background -->
+    <rect width="1000" height="400" fill="url(#bgGradient)"/>
+    
+    <!-- LEFT SECTION - Data Sources -->
+    <g id="left-section">
+      <path d="M 20 50 L 120 50 L 140 100 L 140 350 L 20 350 Z" fill="#0f3a42" opacity="0.6"/>
+      <text x="40" y="100" font-size="16" font-weight="bold" fill="#e0f2f1">📊 Data</text>
+      <text x="40" y="125" font-size="16" font-weight="bold" fill="#e0f2f1">Sources</text>
+      
+      <text x="40" y="170" font-size="13" fill="#b2dfdb">🔹 Kafka</text>
+      <text x="40" y="195" font-size="13" fill="#b2dfdb">🔹 Kinesis</text>
+      <text x="40" y="220" font-size="13" fill="#b2dfdb">🔹 Data Lake</text>
+      <text x="40" y="245" font-size="13" fill="#b2dfdb">🔹 CDC</text>
+      <text x="40" y="270" font-size="13" fill="#b2dfdb">🔹 APIs</text>
+      <text x="40" y="295" font-size="13" fill="#b2dfdb">🔹 Spark</text>
+    </g>
+    
+    <!-- BRONZE LAYER -->
+    <g id="bronze">
+      <!-- Card background -->
+      <rect x="200" y="80" width="180" height="240" fill="#f5f5f0" rx="8" stroke="#333" stroke-width="2"/>
+      
+      <!-- Title -->
+      <text x="290" y="115" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">BRONZE</text>
+      
+      <!-- Database cylinder -->
+      <ellipse cx="290" cy="160" rx="45" ry="18" fill="url(#bronzeGrad)" stroke="#333" stroke-width="1.5"/>
+      <rect x="245" y="160" width="90" height="50" fill="#d4a574" stroke="#333" stroke-width="1.5"/>
+      <ellipse cx="290" cy="210" rx="45" ry="18" fill="#a0826d" stroke="#333" stroke-width="1.5"/>
+      
+      <!-- Description -->
+      <text x="290" y="250" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">Raw Ingestion</text>
+      <text x="290" y="265" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">and History</text>
+    </g>
+    
+    <!-- Arrow Bronze to Silver -->
+    <g id="arrow1">
+      <line x1="380" y1="200" x2="420" y2="200" stroke="#888" stroke-width="2" stroke-dasharray="5,5"/>
+      <text x="400" y="190" font-size="10" fill="#999" text-anchor="middle">→</text>
+    </g>
+    
+    <!-- SILVER LAYER -->
+    <g id="silver">
+      <!-- Card background -->
+      <rect x="430" y="80" width="180" height="240" fill="#f5f5f0" rx="8" stroke="#333" stroke-width="2"/>
+      
+      <!-- Title -->
+      <text x="520" y="115" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">SILVER</text>
+      
+      <!-- Database cylinder -->
+      <ellipse cx="520" cy="160" rx="45" ry="18" fill="url(#silverGrad)" stroke="#333" stroke-width="1.5"/>
+      <rect x="475" y="160" width="90" height="50" fill="#e8e8e8" stroke="#333" stroke-width="1.5"/>
+      <ellipse cx="520" cy="210" rx="45" ry="18" fill="#c0c0c0" stroke="#333" stroke-width="1.5"/>
+      
+      <!-- Description -->
+      <text x="520" y="250" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">Filtered, Cleaned,</text>
+      <text x="520" y="265" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">Augmented</text>
+    </g>
+    
+    <!-- Arrow Silver to Gold -->
+    <g id="arrow2">
+      <line x1="610" y1="200" x2="650" y2="200" stroke="#888" stroke-width="2" stroke-dasharray="5,5"/>
+      <text x="630" y="190" font-size="10" fill="#999" text-anchor="middle">→</text>
+    </g>
+    
+    <!-- GOLD LAYER -->
+    <g id="gold">
+      <!-- Card background -->
+      <rect x="660" y="80" width="180" height="240" fill="#f5f5f0" rx="8" stroke="#333" stroke-width="2"/>
+      
+      <!-- Title -->
+      <text x="750" y="115" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">GOLD</text>
+      
+      <!-- Database cylinder -->
+      <ellipse cx="750" cy="160" rx="45" ry="18" fill="url(#goldGrad)" stroke="#333" stroke-width="1.5"/>
+      <rect x="705" y="160" width="90" height="50" fill="#ffd700" stroke="#333" stroke-width="1.5"/>
+      <ellipse cx="750" cy="210" rx="45" ry="18" fill="#daa520" stroke="#333" stroke-width="1.5"/>
+      
+      <!-- Description -->
+      <text x="750" y="250" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">Business-level</text>
+      <text x="750" y="265" font-size="11" fill="#333" text-anchor="middle" font-weight="bold">Aggregation</text>
+    </g>
+    
+    <!-- RIGHT SECTION - Outputs -->
+    <g id="right-section">
+      <path d="M 880 50 L 980 50 L 980 350 L 860 350 L 880 100 Z" fill="#0f3a42" opacity="0.6"/>
+      <text x="895" y="100" font-size="16" font-weight="bold" fill="#e0f2f1">📈 Output</text>
+      <text x="895" y="125" font-size="16" font-weight="bold" fill="#e0f2f1">Layers</text>
+      
+      <text x="885" y="170" font-size="13" fill="#b2dfdb">📊 Streaming</text>
+      <text x="885" y="185" font-size="13" fill="#b2dfdb">Analytics</text>
+      <text x="885" y="210" font-size="13" fill="#b2dfdb">📉 BI &</text>
+      <text x="885" y="225" font-size="13" fill="#b2dfdb">Reporting</text>
+      <text x="885" y="250" font-size="13" fill="#b2dfdb">🤖 ML Models</text>
+      <text x="885" y="275" font-size="13" fill="#b2dfdb">& ML Ops</text>
+    </g>
+    
+    <!-- QUALITY ARROW at bottom -->
+    <g id="quality-arrow">
+      <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+          <polygon points="0 0, 10 3, 0 6" fill="#10b981" />
+        </marker>
+      </defs>
+      <line x1="200" y1="340" x2="880" y2="340" stroke="#10b981" stroke-width="3" marker-end="url(#arrowhead)"/>
+      <text x="540" y="365" font-size="14" font-weight="bold" fill="#10b981" text-anchor="middle">QUALITY IMPROVEMENT</text>
+    </g>
+  </svg>
+</div>
 
 ---
 
