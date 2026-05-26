@@ -30,6 +30,7 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 - **Microsoft Fabric**:  Automatiza e otimiza tarefas de processamento e análise de dados, tornando os fluxos de trabalho mais eficientes e escaláveis.
  
 ## 🛠 &nbsp;Projetos
+ - 🔭 Projeto [Projeto Soluões Fabric](https://github.com/Robertofsouzas/solucoes-fabric)
  - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
  - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
  - 🔭 Projeto [LojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/tree/main)
