@@ -66,26 +66,49 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.databricks.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<p align="left"> 
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/> 
+</a>
+  
+  <a href="https://learn.microsoft.com/pt-br/dax/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="DAX - Power BI" width="40" height="40"/> 
+  </a>
+
 </p>
 
-
 <br><br>
+
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=robertofsouzas&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofsouzas&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+[![Roberto's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=robertofsouzas&theme=vision-friendly-dark)](https://github.com/robertofsouzas)
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roberto-fonseca-de-souza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roberto-fonseca-de-souza/" height="30" width="40" /></a>
-<a href="https://instagram.com/robertosouzas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertosouzas" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/roberto-fonseca-de-souza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://instagram.com/robertosouzas" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <a href="https://wa.me/5571986072596" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986072596)
-
