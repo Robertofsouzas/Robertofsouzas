@@ -16,7 +16,7 @@ Sou um apaixonado por **dados** e **tecnologia**, com experiência em Análise d
 ## 📊 **Arquitetura de Engenharia de Dados**
 
 <div align="center">
-  <img src="arquitetura-dados.svg" alt="Data Engineering Architecture - Bronze Silver Gold Layers" width="100%">
+  <img src="https://raw.githubusercontent.com/Robertofsouzas/Robertofsouzas/main/arquitetura-dados.svg" alt="Data Engineering Architecture - Bronze Silver Gold Layers" width="100%">
 </div>
 
 ---
