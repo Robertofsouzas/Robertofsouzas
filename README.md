@@ -31,12 +31,12 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 
 💻 SQL: Domínio na criação de consultas avançadas e em modelagem dimensional. Uso intensivo da linguagem para exploração de dados, lógicas de tratamento e estruturação de tabelas fato e dimensão, garantindo a integridade da base que alimenta a camada de visualização.
 
-- 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
+## 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
 
 
 # **⚙️ Engenharia de Dados**  
 
-## 📊 **Arquitetura de Engenharia de Dados**
+### 📊 **Arquitetura de Engenharia de Dados**
 
 ![Arquitetura de Dados](./arquitetura-dados%20(1).svg)
 -⚙️ Azure Data Factory: Orquestração, integração e automação de pipelines de dados em nuvem, fundamental para construir fluxos de ETL/ELT confiáveis.
@@ -57,7 +57,6 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 
 - 🔭 Projeto [Modern data stack](https://github.com/Robertofsouzas/modern-data-stack)
 
-- 🤝 Atualmente estou trabalhando nesse projeto [Previsão de vendas na loja](https://github.com/Robertofsouzas/DatascienceEmproducao)
 
 
 
