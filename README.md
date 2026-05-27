@@ -44,6 +44,8 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 🔥 PySpark: Motor de processamento distribuído utilizado para tarefas de engenharia de dados em larga escala, transformações complexas e análise de Big Data com alta velocidade.
 
 ⚡ Microsoft Fabric: Plataforma SaaS unificada (all-in-one) de ponta a ponta que centraliza engenharia, integração e visualização de dados. Automatiza e otimiza tarefas desde o processamento no OneLake até o consumo no BI, quebrando silos de dados e tornando os fluxos de trabalho incrivelmente mais eficientes e escaláveis.
+
+🔄 CI/CD: Integração e Entrega Contínuas aplicadas à engenharia de dados para automatizar testes, versionamento e implantação de pipelines, garantindo entregas mais ágeis, seguras e livres de erros manuais.
  
 # 🛠 &nbsp;Projetos
  - 🔭 Projeto [Projeto Soluões Fabric](https://github.com/Robertofsouzas/solucoes-fabric)
