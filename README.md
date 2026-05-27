@@ -5,10 +5,10 @@
 
 # 🔥  - Analytics Engineer
  
-🎯 **Objetivo**  
+## 🎯 **Objetivo**  
 Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções escaláveis.
 
-# 🚀 **Sobre Mim**
+## 🚀 **Sobre Mim**
 Analista de Dados BI | Transformando Dados em Estratégias com Impacto Tangível
 
 Analista de BI  com mais de 4 anos de experiência na construção de pipelines de dados e soluções analíticas que suportam decisões críticas de negócios.  Trabalhei em grandes empresas e ambientes de consultoria, incluindo Petrobras e empresas de consultoria com foco em dados, entregando soluções de BI ponta a ponta, desde extração de dados até painéis executivos.
@@ -17,7 +17,7 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 
 
 
-# 💡 **Habilidades**
+## 💡 **Habilidades**
 
 ### **🔍 Análise de Dados**  
 
