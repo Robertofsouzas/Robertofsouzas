@@ -48,6 +48,7 @@ Analista de BI  com mais de 4 anos de experiência na construção de pipelines 
 🔄 CI/CD: Integração e Entrega Contínuas aplicadas à engenharia de dados para automatizar testes, versionamento e implantação de pipelines, garantindo entregas mais ágeis, seguras e livres de erros manuais.
  
 # 🛠 &nbsp;Projetos
+  - 🔭 Projeto [Projeto Agente de Vendas](https://github.com/Robertofsouzas/ai-agente-vendas)
  - 🔭 Projeto [Projeto Soluões Fabric](https://github.com/Robertofsouzas/solucoes-fabric)
  - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
  - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
