@@ -100,7 +100,7 @@ Plataforma analítica *end-to-end* sobre o Campeonato Brasileiro Série A: da in
 ### 📈 Dashboards em Power BI
 
 Meus dashboards e painéis executivos estão no portfólio:
-👉 **[sites.google.com/view/portfoliorobertosouza](https://sites.google.com/view/portfoliorobertosouza/home)**
+👉 **[sites.google.com/view/portfoliorobertosouza](https://rfstech.vercel.app/)**
 
 ---
 
