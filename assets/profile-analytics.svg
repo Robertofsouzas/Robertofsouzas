@@ -1,22 +1,250 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
-  <rect width="800" height="300" fill="#F8FAFC"/>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="350"
+    viewBox="0 0 900 350"
+>
 
-  <text
-    x="40"
-    y="50"
-    font-family="Arial"
-    font-size="24"
+<rect
+    width="100%"
+    height="100%"
+    rx="16"
+    fill="#F8FAFC"
+/>
+
+<text
+    x="70"
+    y="32"
+    font-size="20"
     font-weight="bold"
-    fill="#342E83">
-    GitHub Analytics
-  </text>
-
-  <text
-    x="40"
-    y="100"
+    fill="#0F172A"
     font-family="Arial"
-    font-size="16"
-    fill="#64748B">
-    Profile analytics em construção...
-  </text>
+>
+    GitHub Traffic — Last 7 Days
+</text>
+
+<line
+    x1="70"
+    y1="280"
+    x2="870"
+    y2="280"
+    stroke="#CBD5E1"
+/>
+
+<polyline
+    points="70.0,280.0 203.3,280.0 336.7,280.0 470.0,280.0 603.3,280.0 736.7,280.0 870.0,60.0"
+    fill="none"
+    stroke="#342E83"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+/>
+
+
+    <circle
+        cx="70.0"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="70.0"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="203.3"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="203.3"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="336.7"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="336.7"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="470.0"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="470.0"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="603.3"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="603.3"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="736.7"
+        cy="280.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="736.7"
+        y="265.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        0
+    </text>
+    
+    <circle
+        cx="870.0"
+        cy="60.0"
+        r="5"
+        fill="#342E83"
+    />
+
+    <text
+        x="870.0"
+        y="45.0"
+        text-anchor="middle"
+        font-size="13"
+        fill="#342E83"
+        font-family="Arial"
+    >
+        5
+    </text>
+    
+
+
+    <text
+        x="70.0"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        17/09
+    </text>
+    
+    <text
+        x="203.3"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        18/09
+    </text>
+    
+    <text
+        x="336.7"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        19/09
+    </text>
+    
+    <text
+        x="470.0"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        20/09
+    </text>
+    
+    <text
+        x="603.3"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        21/09
+    </text>
+    
+    <text
+        x="736.7"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        22/09
+    </text>
+    
+    <text
+        x="870.0"
+        y="320"
+        text-anchor="middle"
+        font-size="13"
+        fill="#64748B"
+        font-family="Arial"
+    >
+        23/09
+    </text>
+    
+
 </svg>
