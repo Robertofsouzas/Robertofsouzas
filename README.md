@@ -1,4 +1,12 @@
+ ### 📈 Profile Analytics
 
+<p align="center">
+  <img
+    src="./assets/profile-analytics.svg"
+    width="850"
+    alt="GitHub Traffic Analytics"
+  />
+</p>
   
   
   <!-- =====================================================================
