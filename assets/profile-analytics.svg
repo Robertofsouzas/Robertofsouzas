@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+  <rect width="800" height="300" fill="#F8FAFC"/>
+
+  <text
+    x="40"
+    y="50"
+    font-family="Arial"
+    font-size="24"
+    font-weight="bold"
+    fill="#342E83">
+    GitHub Analytics
+  </text>
+
+  <text
+    x="40"
+    y="100"
+    font-family="Arial"
+    font-size="16"
+    fill="#64748B">
+    Profile analytics em construção...
+  </text>
+</svg>
