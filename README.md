@@ -1,116 +1,118 @@
-  
+  <!-- =====================================================================
+  GUIA RÁPIDO DE EDIÇÃO (comentários HTML não aparecem no GitHub)
+  - Linhas marcadas com "CONFIRMAR" têm descrição inferida do nome do repositório.
+    Abra o repo, ajuste a frase para o que ele realmente faz e apague o comentário.
+  - Se o nome de algum repositório estiver diferente, corrija o link.
+===================================================================== -->
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Roberto souza</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robertofsouzas&color=blue" alt="Profile views" />
+<h1 align="center">Roberto Souza</h1>
+
+<p align="center">
+  <b>Analytics Engineer</b> · Pipelines de dados, modelagem dimensional e BI ponta a ponta<br>
+  Salvador, Bahia 🇧🇷
 </p>
 
-# 🔥  - Analytics Engineer
- 
-## 🎯 **Objetivo**  
-Este portfólio reúne projetos pessoais de **Análise de Dados** e **Engenharia de Dados**, demonstrando minha capacidade de resolver desafios de negócios por meio de análises inteligentes e soluções escaláveis.
-
-## 🚀 **Sobre Mim**
-Analista de Dados BI | Transformando Dados em Estratégias com Impacto Tangível
-
-Analista de BI  com mais de 4 anos de experiência na construção de pipelines de dados e soluções analíticas que suportam decisões críticas de negócios.  Trabalhei em grandes empresas e ambientes de consultoria, incluindo Petrobras e empresas de consultoria com foco em dados, entregando soluções de BI ponta a ponta, desde extração de dados até painéis executivos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/roberto-fonseca-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sites.google.com/view/portfoliorobertosouza/home"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfólio Power BI"></a>
+  <a href="mailto:Robertofonsecas83@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
 ---
 
+## 👋 Sobre mim
 
+Trabalho com dados desde 2021, construindo o caminho completo entre o dado bruto e a decisão: **extração, pipelines ETL/ELT, modelagem dimensional (Star Schema), Data Warehouse / Lakehouse e dashboards executivos**.
 
-## 💡 **Habilidades**
+- 🏢 Já atuei com dados de **Finanças, RH, Suprimentos, Operações e Engenharia**.
+- 🧱 Meu foco hoje é **Analytics Engineering**: dados confiáveis, bem modelados e documentados, prontos para virar análise.
+- ☁️ Estou aprofundando **Microsoft Fabric** (Lakehouse, OneLake, pipelines) e preparando a certificação **DP-600**.
+- 🤝 Aberto a oportunidades como Analytics Engineer e a projetos de dados, automação e IA (também pela **RFStechs**).
 
-### **🔍 Análise de Dados**  
+---
 
-![Dashboard](./dashboard.svg)
-📊 Power BI: Desenvolvimento de dashboards interativos e painéis executivos de alto impacto. Aplicação de data storytelling com lógica Top-Down estruturada, construção de métricas complexas utilizando a linguagem DAX e otimização rigorosa de modelos semânticos para garantir máxima performance e clareza na tomada de decisão.
+## 🛠️ Stack
 
+| Camada | Ferramentas |
+|---|---|
+| **Consumo e BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square) |
+| **Modelagem e armazenamento** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white) Star Schema · Data Warehouse · Lakehouse |
+| **Processamento e ETL/ELT** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) Apache Hop / Pentaho PDI · Data Factory |
+| **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-🗄️ SQL Server: Gerenciamento, manipulação e otimização estrutural de bancos de dados relacionais. Foco em performance tuning, criação de views e stored procedures, assegurando uma arquitetura de dados estável, segura e veloz para suportar o ambiente analítico.
+### 💻 Linguagens que mais utilizo
 
-🔄 Pentaho Data Integration (PDI): Construção e orquestração de soluções robustas de ETL. Automação de pipelines para extrair dados de múltiplas origens, aplicar transformações e regras de negócio complexas, e carregar informações limpas e padronizadas no Data Warehouse.
+| Linguagem | Onde eu uso |
+|---|---|
+| **SQL** | Consultas analíticas, views, stored procedures, modelagem de tabelas fato e dimensão |
+| **DAX** | Medidas e métricas de negócio em Power BI, otimização de modelos semânticos |
+| **Python** | Tratamento e limpeza de dados, automações, análises exploratórias em notebooks |
+| **PySpark** | Transformações em Lakehouse (Fabric), processamento em maior volume |
 
-💻 SQL: Domínio na criação de consultas avançadas e em modelagem dimensional. Uso intensivo da linguagem para exploração de dados, lógicas de tratamento e estruturação de tabelas fato e dimensão, garantindo a integridade da base que alimenta a camada de visualização.
+---
 
-## 👨‍💻 Projetos em Power BI [Power BI](https://sites.google.com/view/portfoliorobertosouza/home)
+## 🏗️ Arquitetura de referência
 
+Fluxo que costumo seguir nos projetos: fontes → ingestão → camadas de transformação → modelo dimensional → consumo em BI.
 
-# **⚙️ Engenharia de Dados**  
-
-### 📊 **Arquitetura de Engenharia de Dados**
-
-![Arquitetura de Dados](./arquitetura-dados%20(1).svg)
--⚙️ Azure Data Factory: Orquestração, integração e automação de pipelines de dados em nuvem, fundamental para construir fluxos de ETL/ELT confiáveis.
-
-🔥 PySpark: Motor de processamento distribuído utilizado para tarefas de engenharia de dados em larga escala, transformações complexas e análise de Big Data com alta velocidade.
-
-⚡ Microsoft Fabric: Plataforma SaaS unificada (all-in-one) de ponta a ponta que centraliza engenharia, integração e visualização de dados. Automatiza e otimiza tarefas desde o processamento no OneLake até o consumo no BI, quebrando silos de dados e tornando os fluxos de trabalho incrivelmente mais eficientes e escaláveis.
-
-🔄 CI/CD: Integração e Entrega Contínuas aplicadas à engenharia de dados para automatizar testes, versionamento e implantação de pipelines, garantindo entregas mais ágeis, seguras e livres de erros manuais.
- 
-# 🛠 &nbsp;Projetos
-  - 🔭 Projeto [Projeto Agente de Vendas](https://github.com/Robertofsouzas/ai-agente-vendas)
- - 🔭 Projeto [Projeto Soluões Fabric](https://github.com/Robertofsouzas/solucoes-fabric)
- - 🔭 Projeto [Consolidação de faturas](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas)
- - 🔭 Projeto [Relatório_Financeiro](https://github.com/Robertofsouzas/Git-fabric)
- - 🔭 Projeto [LojaVrinda](https://github.com/Robertofsouzas/LojaVrinda/tree/main)
- - 🔭 Projeto [Healthcare-Dataset](https://github.com/Robertofsouzas/Healthcare-Dataset)
- - 🔭 Projeto [Analise de cesta de Compra](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras)
- - 🔭 Projeto [Pre-Processamento de dados no Mongodb](https://github.com/Robertofsouzas/Pre-Processamento-de-dados-de-texto-Extraido-do-Mongodb)
- - 🔭 Projeto [Análise e Limpeza dos dados](https://github.com/Robertofsouzas/Analise-e-Limpeza-de-Dados-)
-
-- 🔭 Projeto [Modern data stack](https://github.com/Robertofsouzas/modern-data-stack)
-
-
-
-
-- 📫 How to reach me **Robertofonsecas83@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="40" height="40"/> 
-  </a> 
-  
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/> 
-</a>
-  
-  <a href="https://learn.microsoft.com/pt-br/dax/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="DAX - Power BI" width="40" height="40"/> 
-  </a>
-
+<p align="center">
+  <img src="arquitetura-dados%20(1).svg" alt="Arquitetura de engenharia de dados" width="90%">
 </p>
 
-<br><br>
+---
 
+## 🚀 Projetos
 
+> Todos os projetos abaixo são **projetos de estudo e portfólio**, criados para praticar ferramentas e padrões que uso e quero aprofundar na engenharia de dados.
 
+### ⭐ Projeto em destaque: [Brasileirão 360](https://github.com/Robertofsouzas/brasileirao360)
 
-## ⚙️ &nbsp;GitHub Analytics
+Plataforma analítica *end-to-end* sobre o Campeonato Brasileiro Série A: da ingestão de APIs esportivas ao dashboard interativo.
 
-[![Roberto's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=robertofsouzas&theme=vision-friendly-dark)](https://github.com/robertofsouzas)
+- 🏗️ **Arquitetura Medalhão** (Bronze → Silver → Gold) com **Star Schema** em PostgreSQL / Supabase
+- 📑 **Data Contract** documentando esquemas de tabelas e definições de métricas
+- 🎲 **Modelo de Poisson + 10.000 simulações de Monte Carlo** para projetar título, vagas e rebaixamento
+- 📊 **Visualização espacial** (D3.js e deck.gl): mapas de calor e de chutes por atleta
+- 🧰 **Stack:** Python · Pandas · NumPy · SQL (Supabase/PostgreSQL) · D3.js · deck.gl
 
-<br>
+<!-- CONFIRMAR: se publicar no GitHub Pages, coloque aqui o link "Ver demo ao vivo" -->
 
-<h3 align="left">Connect with me:</h3>
+### ⚙️ Engenharia de Dados
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/roberto-fonseca-de-souza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://instagram.com/robertosouzas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="https://wa.me/5571986072596" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**Soluções Fabric**](https://github.com/Robertofsouzas/solucoes-fabric) | Projeto prático em Microsoft Fabric com transformações sobre dados de vendas, em paralelo aos estudos para a DP-600 | Fabric · PySpark · SQL <!-- CONFIRMAR: camadas (bronze/silver/gold?) e o que o pipeline entrega --> |
+| [**Modern Data Stack**](https://github.com/Robertofsouzas/modern-data-stack) | Ambiente de estudo de uma stack de dados moderna, da ingestão à transformação | Shell · ELT <!-- CONFIRMAR: ferramentas usadas (Airbyte, dbt, orquestrador?) --> |
+| [**Relatório Financeiro (Fabric + Git)**](https://github.com/Robertofsouzas/Git-fabric) | Relatório financeiro no Fabric com versionamento via Git | Fabric · Power BI · Git <!-- CONFIRMAR --> |
+| [**Consolidação de Faturas**](https://github.com/Robertofsouzas/ConsolidacaoDeFaturas) | Automação para consolidar faturas em uma base única e padronizada | Python <!-- CONFIRMAR: formato de entrada/saída --> |
+| [**Pré-processamento de dados do MongoDB**](https://github.com/Robertofsouzas/Pre-Processamento-de-dados-de-texto-Extraido-do-Mongodb) | Extração e pré-processamento de dados de texto vindos do MongoDB | Python · MongoDB · Jupyter <!-- CONFIRMAR --> |
+
+### 📊 Análise de Dados e IA
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**Agente de Vendas com IA**](https://github.com/Robertofsouzas/ai-agente-vendas) | Agente de IA aplicado a um fluxo de vendas | Python · IA <!-- CONFIRMAR: qual modelo/framework e qual tarefa o agente resolve --> |
+| [**Análise de Cesta de Compras**](https://github.com/Robertofsouzas/Analise_Cesta_de_Compras) | Análise de padrões de compra (produtos comprados juntos) | Python · Jupyter <!-- CONFIRMAR: técnica usada (regras de associação?) --> |
+| [**Análise e Limpeza de Dados**](https://github.com/Robertofsouzas/Analise-e-Limpeza-de-Dados-) | Etapas de exploração, tratamento e limpeza de um conjunto de dados | Python · Jupyter <!-- CONFIRMAR --> |
+| [**Healthcare Dataset**](https://github.com/Robertofsouzas/Healthcare-Dataset) | Análise de um dataset público da área da saúde | Python <!-- CONFIRMAR --> |
+| [**Loja Vrinda**](https://github.com/Robertofsouzas/LojaVrinda/tree/main) | Análise de dados de vendas de uma loja | <!-- CONFIRMAR: Power BI ou Python? --> |
+
+### 📈 Dashboards em Power BI
+
+Meus dashboards e painéis executivos estão no portfólio:
+👉 **[sites.google.com/view/portfoliorobertosouza](https://sites.google.com/view/portfoliorobertosouza/home)**
+
+---
+
+## 🎓 Formação e certificações
+
+- 🔄 **DP-600** (Fabric Analytics Engineer Associate): em estudo
+- 🔄 **PL-300** (Power BI Data Analyst Associate): em preparação
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [roberto-fonseca-de-souza](https://www.linkedin.com/in/roberto-fonseca-de-souza/)
+- E-mail: Robertofonsecas83@gmail.com
+
