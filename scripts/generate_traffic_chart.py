@@ -23,7 +23,7 @@ HISTORY_FILE = "data/traffic.json"
 OUTPUT_SVG = "assets/profile-analytics.svg"
 API_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/traffic/views"
 
-TITLE = "Acessos ao repositório do perfil"
+TITLE  = "GitHub Repository Traffic"
 
 
 # ---------------------------------------------------------------- dados
@@ -85,8 +85,8 @@ def build_series(history, days):
 
 
 # -------------------------------------------------------------- desenho
-W, H = 720, 260
-PAD_L, PAD_R, PAD_T, PAD_B = 44, 24, 64, 40
+W, H = 900, 360
+PAD_L, PAD_R, PAD_T, PAD_B = 55, 35, 70, 55
 
 
 def nice_max(v):
