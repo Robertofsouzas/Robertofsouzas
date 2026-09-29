@@ -5,21 +5,17 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img
-        src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
-        width="600"
-        alt="GitHub Traffic Analytics"
-      />
+      <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard" width="600" alt="Traffic"/>
     </td>
     <td align="center" valign="top">
-      <img
-        src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
-        width="280"
-        alt="Fontes de Tráfego"
-      />
+      <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes" width="280" alt="Fontes"/>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-estatisticas" width="850" alt="Estatísticas"/>
+</p>
   
   <!-- =====================================================================
   GUIA RÁPIDO DE EDIÇÃO (comentários HTML não aparecem no GitHub)
