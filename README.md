@@ -1,23 +1,21 @@
 
   ### 📈 Profile Analytics
-
 <p align="center">
   <img
     src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
-    width="600"
+    width="900"
     alt="GitHub Traffic Analytics"
-  />
-  <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
-    width="320"
-    alt="Fontes de Tráfego"
   />
 </p>
 
 <p align="center">
   <img
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
+    width="210"
+    alt="Fontes"
+  /><img
     src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-estatisticas"
-    width="940"
+    width="410"
     alt="Estatísticas"
   />
 </p>
