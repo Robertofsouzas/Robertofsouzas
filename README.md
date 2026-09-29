@@ -8,7 +8,22 @@
     alt="GitHub Traffic Analytics"
   />
 </p>
-  
+
+  <p align="center">
+  <img
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
+    width="850"
+    alt="GitHub Traffic Analytics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
+    width="400"
+    alt="Fontes de Tráfego"
+  />
+</p>
   
   <!-- =====================================================================
   GUIA RÁPIDO DE EDIÇÃO (comentários HTML não aparecem no GitHub)
