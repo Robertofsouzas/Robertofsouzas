@@ -2,7 +2,7 @@
   ### 📈 Profile Analytics
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=1"
     width="900"
     alt="GitHub Traffic Analytics"
   />
@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel"
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel?v=2"
     width="900"
     alt="Painel de Estatísticas"
   />
