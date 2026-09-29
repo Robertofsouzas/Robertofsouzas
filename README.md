@@ -2,21 +2,24 @@
   ### 📈 Profile Analytics
 
 
-  <p align="center">
-  <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
-    width="850"
-    alt="GitHub Traffic Analytics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
-    width="400"
-    alt="Fontes de Tráfego"
-  />
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
+        width="600"
+        alt="GitHub Traffic Analytics"
+      />
+    </td>
+    <td align="center" valign="top">
+      <img
+        src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
+        width="280"
+        alt="Fontes de Tráfego"
+      />
+    </td>
+  </tr>
+</table>
   
   <!-- =====================================================================
   GUIA RÁPIDO DE EDIÇÃO (comentários HTML não aparecem no GitHub)
