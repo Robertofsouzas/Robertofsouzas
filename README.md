@@ -1,7 +1,7 @@
 
  
  ### 📈 Profile Analytics
- <img src="https://komarev.com/ghpvc/?username=Robertofsouzas&label=Profile%20Views&color=342E83&style=for-the-badge">
+ <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard" width="850" alt="GitHub Traffic Analytics" />
 
 <p align="center">
   <img
