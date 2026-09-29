@@ -1,8 +1,7 @@
 
  
  ### 📈 Profile Analytics
- <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard" width="850" alt="GitHub Traffic Analytics" />
-
+ 
 <p align="center">
   <img
     src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard"
