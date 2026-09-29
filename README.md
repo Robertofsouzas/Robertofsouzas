@@ -10,13 +10,9 @@
 
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
-    width="210"
-    alt="Fontes"
-  /><img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-estatisticas"
-    width="410"
-    alt="Estatísticas"
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel"
+    width="900"
+    alt="Painel de Estatísticas"
   />
 </p>
   
