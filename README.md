@@ -10,8 +10,7 @@
 
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes" 
-
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-fontes"
     width="210"
     alt="Fontes"
   /><img
