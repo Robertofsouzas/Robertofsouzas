@@ -1,6 +1,5 @@
 
- 
- ### 📈 Profile Analytics
+  ### 📈 Profile Analytics
  
 <p align="center">
   <img
