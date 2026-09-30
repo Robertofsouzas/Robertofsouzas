@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=2"
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=3"
     width="900"
     alt="GitHub Traffic Analytics"
   />
