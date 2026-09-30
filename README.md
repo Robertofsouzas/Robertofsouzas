@@ -18,7 +18,7 @@
 
 <p align="center">
   <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel?v=3"
+    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel?v=4"
     width="900"
     alt="Painel de Estatísticas"
   />
