@@ -1,6 +1,5 @@
 
-  ### 📈 Profile Analytics
-
+### 📈 Profile Analytics
 <img
   src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/registrar-visualizacao"
   width="1"
