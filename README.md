@@ -3,19 +3,14 @@
 <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/registrar-visualizacao" width="1" height="1" alt="" style="display:none" />
 
 <p align="center">
-  <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=1"
+ <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=2" width="900" alt="GitHub Traffic Analytics" />
     width="900"
     alt="GitHub Traffic Analytics"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel?v=2"
-    width="900"
-    alt="Painel de Estatísticas"
-  />
+ <img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-painel?v=3" width="900" alt="Painel de Estatísticas" />
 </p>
   
   <!-- =====================================================================
