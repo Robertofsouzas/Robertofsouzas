@@ -1,5 +1,7 @@
 
   ### 📈 Profile Analytics
+<img src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/registrar-visualizacao" width="1" height="1" alt="" style="display:none" />
+
 <p align="center">
   <img
     src="https://clopimiuehzfdznvqprx.supabase.co/functions/v1/gerar-dashboard?v=1"
