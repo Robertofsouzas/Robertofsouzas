@@ -82,9 +82,8 @@ Trabalho com dados desde 2021, construindo o caminho completo entre o dado bruto
 Fluxo que costumo seguir nos projetos: fontes → ingestão → camadas de transformação → modelo dimensional → consumo em BI.
 
 <p align="center">
-  ![Arquitetura Medalhão](assets/arquitetura-medalhao.svg)
+  <img src="assets/arquitetura-medalhao.svg" alt="Arquitetura Medalhão" width="100%">
 </p>
-
 ---
 
 ## 🚀 Projetos
