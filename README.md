@@ -82,7 +82,7 @@ Trabalho com dados desde 2021, construindo o caminho completo entre o dado bruto
 Fluxo que costumo seguir nos projetos: fontes → ingestão → camadas de transformação → modelo dimensional → consumo em BI.
 
 <p align="center">
-  <img src="arquitetura-dados%20(1).svg" alt="Arquitetura de engenharia de dados" width="90%">
+  ![Arquitetura Medalhão](assets/arquitetura-medalhao.svg)
 </p>
 
 ---
